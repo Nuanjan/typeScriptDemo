@@ -1,0 +1,23 @@
+{
+  "name": "typeScriptDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuanjan/typeScriptDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuanjan/typeScriptDemo/issues"
+  },
+  "homepage": "https://github.com/Nuanjan/typeScriptDemo#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
