@@ -8,7 +8,7 @@ const person: {
     age: number;
 } = {
     name:"Noon",
-    age: 30
+    age: 32
 }
 
 // onother way to specified object type by create your own type.
